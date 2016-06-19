@@ -1,0 +1,87 @@
+.whole{
+margin: 0px auto;
+	position: relative;
+	top: 100px;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0px auto;
+}
+
+form {
+	display: block;
+	//position: relative;
+	margin: 0px auto;
+	}
+
+.searchbar {
+position: relative;
+border-color: blue;
+border-width: 1px;
+width: 400px;
+height: 25px;
+margin: auto;
+top: 20px;
+	}
+
+.searchbutton, .luckybutton {
+
+position: relative;
+//display: block;
+	top: 30px;
+}
+
+.navbar-list {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+
+.navbar-list li {
+float: right;
+padding: 14px;
+
+}
+
+.navbar-list li a {
+display: block;
+text-decoration: none;
+color: grey;
+
+}
+
+.footer {
+//border: solid black 2px;
+//position: absolute;
+
+}
+
+.footer ul {
+	position: relative;
+	bottom: -300px;
+	width: 100%;
+list-style-type: none;
+text-decoration: none;
+color: grey;
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+.footer a {
+	float: left;
+
+	text-decoration: none;
+	color:grey;
+	padding: 14px 16px;
+}
+
+
+
